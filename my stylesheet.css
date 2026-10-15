@@ -38,3 +38,38 @@ font-weight: bold;
 font-size: 1.4em;
 color: blue;
 }
+
+/* Center the main content */
+body {
+    text-align: center;
+}
+
+/* Center all headings */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Improve paragraph layout */
+p {
+    max-width: 750px;
+    margin: 25px auto;
+    line-height: 1.8;
+}
+
+/* Center the module list */
+ul {
+    display: inline-block;
+    text-align: left;
+}
+h2 {
+    border: none;
+    font-size: 28px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 38px;
+    color: #3c6e47;
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
