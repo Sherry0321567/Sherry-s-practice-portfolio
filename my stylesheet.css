@@ -73,3 +73,15 @@ h1 {
     margin-top: 60px;
     margin-bottom: 15px;
 }
+
+
+/* Style the BBC Web Scraping dataset image */
+.dataset-image {
+    display: block;
+    width: 85%;
+    max-width: 900px;
+    height: auto;
+    margin: 30px auto;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+}
